@@ -8,7 +8,6 @@ Es eignet sich perfekt für das Üben von SQL-Befehlen, Datenbankdesign, Abfrage
 ## Projektstruktur
 
 SQL
-
 ├── Teil_1_Grundlagen.sql  
 ├── Teil_2_Mittleres_Niveau.sql
 ├── Teil_3_Fortgeschritten.sql
